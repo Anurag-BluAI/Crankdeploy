@@ -5,7 +5,7 @@ sbengine_ext=.gapp
 runtime=/usr/crank/runtimes/linux-imx8yocto-aarch64-opengles_2.0-wayland-obj
 
 sb_binary=$runtime/bin/sbengine
-sb_app=EvCharger/EV_Charger.gapp
+sb_app=Animation/Animations.gapp
 #sb_app=RobotFace/CrankRobotFace.gapp
 demo_app=$crank_dir/apps/$sb_app
 
